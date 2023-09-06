@@ -17,7 +17,7 @@ http://fpga.fm4dd.com/
 |---------|--------|--------|
 | 1.0     |[20230218-pmod-analyzer-gerber.zip](fabfiles/v10/20230218-pmod-analyzer-gerber.zip) | [20230218-pmod-analyzer-schema.pdf](fabfiles/v10/20230218-pmod-analyzer-schema.pdf) |
 
-<img src="images/pcb.png" width="480px">
+<img src="images/pcb.png" width="400px"><img src="images/pmod-analyzer.svg" width="400px">
 
 
 ### Board Pictures
